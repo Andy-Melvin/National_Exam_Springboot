@@ -1,0 +1,10 @@
+{
+  "firstName": "Main",
+  "lastName": "Administrator",
+  "email": "admin@erp.gov.rw",
+  "password": "adminPassword1",
+  "mobile": "+250780000000",
+  "dateOfBirth": "1975-01-01",
+  "roles": ["ROLE_ADMIN","ROLE_MANAGER","ROLE_EMPLOYEE"]
+}
+
