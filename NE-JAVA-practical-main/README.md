@@ -1,1 +1,1 @@
-# Rwanda ERP - Payroll & Employee Management System 
+# Payroll & Employee Management System 
